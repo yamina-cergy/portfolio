@@ -1,0 +1,21 @@
+body {
+    background-image: url("image_fond.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#portfolio{
+    font-size: 8vh;
+}
+.lien-listes{
+    text-decoration: none;
+    color: black;
+    font-size: 4vh;
+}
+li{
+    margin-top: 50px;
+}
+#liste{
+    list-style-type: none;
+}
